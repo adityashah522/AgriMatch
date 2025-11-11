@@ -30,11 +30,10 @@ Farmers can swipe through recommended plant pairings (companion planting), searc
 ---
 
 ## 👨‍💻 Team Members
-
+- **Aditya Shah** — Lead Developer & Architect
 - **Vibhun Naredla** — Lead Developer & Architect
 - **Aryan Mathur** — Lead UI/UX Designer & Developer
 - **Samarth Chenumolu** — Data Collection & Plant Dataset Curation
-- **Aditya Shah** — Project Coordinator & QA
 - **Ronav Gopal** — Database Manager
 
 ---
